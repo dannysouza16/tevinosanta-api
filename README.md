@@ -32,7 +32,7 @@ O banco de dados utilizado será o SQL Server igual das aulas do coletto.
 - Para subir o projeto:
  - comando que adiciona as alteraçoes feitas: $ git add *
  - comitando a alteração $ git commit -m 'Mensagem sobre a modificação'
- - dando o push no projeto para que seja feito o pull request: git push origin nome-da-branch
+ - dando o push no projeto para que seja feito o pull request: git push origin master
 - E por ultimo vá até o seu repositório no github (parte gráfica) e faça o pull request.
 
 Guia de git básico: http://rogerdudler.github.io/git-guide/index.pt_BR.html
