@@ -23,12 +23,12 @@ O banco de dados utilizado será o SQL Server igual das aulas do coletto.
 - Dê um fork no projeto
 - Vá no repositorio que o git criou e copie a url, digite git clone e cole o link
 - git clone https://github.com/seu-nome/tevinosanta-api
+- Comando para sincronizar seu fork com o original: $ git remote add upstream https://github.com/dannysouza16/tevinosanta-api.git
 - Entre no diretório $ cd tevinosanta-api
+- Atualize o seu repositório local sempre antes de mexer:
+ - $ git fetch upstream
+ - $ git merge upstream/master
 - Faça suas alteraçoes
-- Crie um branch (ramificação) do projeto:
- - comando que fecha a master: $ git checkout master
- - comando que cria a branch: $ git branch nome-da-branch
- - comando para sincronizar seu fork com o original: $ git remote add upstream https://github.com/dannysouza16/tevinosanta-api.git
 - Para subir o projeto:
  - comando que adiciona as alteraçoes feitas: $ git add *
  - comitando a alteração $ git commit -m 'Mensagem sobre a modificação'
