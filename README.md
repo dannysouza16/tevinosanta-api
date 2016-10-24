@@ -14,7 +14,7 @@ O aplicativo te vi no santa é app que alunos da faculdade podem tirar fotos de 
 
 ### API
 A API será feita em ASP.NET (C#) com Entity framework para conexão com o banco de dados.  
-Tutorial de como criar uma API em ASP.NET: https://www.asp.net/web-api/overview/data/using-web-api-with-entity-framework/part-1  
+Tutorial de como criar uma API em ASP.NET: https://www.asp.net/web-api/overview/data/using-web-api-with-entity-framework/part-1 ; http://www.devmedia.com.br/asp-net-web-api-implementando-servicos-restful/31024     
 O que é MVC: http://tableless.com.br/mvc-afinal-e-o-que/  
 O que é API REST: https://www.infoq.com/br/articles/rest-introduction ; http://pt.stackoverflow.com/questions/45783/o-que-%C3%A9-rest-e-restful  
 Conectando Banco na WEB API: https://www.asp.net/mvc/overview/getting-started/database-first-development/setting-up-database  
